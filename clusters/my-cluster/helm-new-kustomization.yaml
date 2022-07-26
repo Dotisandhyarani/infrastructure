@@ -23,4 +23,3 @@ spec:
       target:
         name: helm-new
         kind: HorizontalPodAutoscaler
-
